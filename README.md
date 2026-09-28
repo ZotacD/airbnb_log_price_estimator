@@ -37,7 +37,3 @@ Le meilleur modèle obtenu est un **arbre de décision de profondeur 10**, avec 
 - **R² : 0,610**
 
 L'analyse du modèle permet également d'identifier les variables ayant le plus d'influence sur le prix, notamment la capacité d'accueil, le type de chambre, le nombre de chambres, la localisation et les équipements.
-
-## Technologies
-
-Python · Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn
